@@ -45,7 +45,7 @@ const Navbar = () => {
     },
     {
       icon: Linkedin,
-      href: "https://linkedin.com/andifariq",
+      href: "https://linkedin.com/in/andifariq",
       label: "LinkedIn",
       color: "accent-blue",
       delay: 0.7
