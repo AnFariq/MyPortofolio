@@ -38,21 +38,21 @@ const Navbar = () => {
   const socialLinks = [
     {
       icon: Github,
-      href: "https://github.com",
+      href: "https://github.com/AnFariq",
       label: "GitHub",
       color: "accent-gold",
       delay: 0.6
     },
     {
       icon: Linkedin,
-      href: "https://linkedin.com",
+      href: "https://linkedin.com/andifariq",
       label: "LinkedIn",
       color: "accent-blue",
       delay: 0.7
     },
     {
       icon: Mail,
-      href: "mailto:contact@example.com",
+      href: "mailto:fariqputrapratamaandicha@gmail.com",
       label: "Email",
       color: "accent-gold",
       delay: 0.8

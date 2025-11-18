@@ -54,21 +54,21 @@ const Contact = () => {
     {
       icon: Mail,
       label: 'Email',
-      value: 'contact@example.com',
-      href: 'mailto:contact@example.com',
+      value: 'fariqputrapratamaandicha@gmail.com',
+      href: 'mailto:fariqputrapratamaandicha@gmail.com',
       color: 'accent-gold'
     },
     {
       icon: Phone,
       label: 'Phone',
-      value: '+1 (555) 123-4567',
-      href: 'tel:+15551234567',
+      value: '+6281456070180',
+      href: 'tel:+6281456070180',
       color: 'accent-blue'
     },
     {
       icon: MapPin,
       label: 'Location',
-      value: 'San Francisco, CA',
+      value: 'Surabaya, Indonesia',
       href: '#',
       color: 'accent-purple'
     }

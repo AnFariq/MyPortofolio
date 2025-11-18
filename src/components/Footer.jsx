@@ -6,31 +6,25 @@ const Footer = () => {
   const socialLinks = [
     {
       icon: Github,
-      href: 'https://github.com',
+      href: 'https://github.com/AnFariq',
       label: 'GitHub',
       color: 'accent-gold'
     },
     {
       icon: Linkedin,
-      href: 'https://linkedin.com',
+      href: 'https://linkedin.com/andifariq',
       label: 'LinkedIn',
       color: 'accent-blue'
     },
     {
-      icon: Twitter,
-      href: 'https://twitter.com',
-      label: 'Twitter',
-      color: 'accent-cyan'
-    },
-    {
       icon: Instagram,
-      href: 'https://instagram.com',
+      href: 'https://instagram.com/fa_2yq',
       label: 'Instagram',
       color: 'accent-purple'
     },
     {
       icon: Mail,
-      href: 'mailto:contact@example.com',
+      href: 'mailto:fariqputrapratamaandicha@gmail.com',
       label: 'Email',
       color: 'accent-gold'
     }
@@ -41,7 +35,7 @@ const Footer = () => {
     { name: 'Services', href: '#services' },
     { name: 'Portfolio', href: '#portfolio' },
     { name: 'GitHub', href: '#github' },
-    { name: 'Figma', href: '#figma' },
+    //{ name: 'Figma', href: '#figma' },
     { name: 'Contact', href: '#contact' }
   ]
 
