@@ -273,7 +273,7 @@ const GitHub = () => {
           className="text-center mt-16"
         >
           <motion.a
-            href="https://github.com/your-username"
+            href="https://github.com/AnFariq"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.05 }}
