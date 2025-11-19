@@ -8,8 +8,8 @@ const About = () => {
     degree: "S1 Sistem Informasi",
     status: "Mahasiswa Aktif",
     location: "Surabaya, Indonesia",
-    startDate: "2022",
-    expectedGraduation: "2026"
+    startDate: "2025",
+    expectedGraduation: "2029"
   }
 
   const skills = [
